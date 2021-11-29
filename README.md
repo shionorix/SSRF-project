@@ -33,3 +33,4 @@ W aplikacji sklepu kliknięcie przycisku Check stock powoduje przetwarzanie plik
 Aby rozwiązać zadanie, odnajdź SecretAccessKey serwera.
 
 https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-perform-ssrf
+
